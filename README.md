@@ -1,1 +1,1 @@
-# decontructed-email
+# deconstructed-email
